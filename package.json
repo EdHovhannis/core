@@ -15,7 +15,7 @@
     "@material-ui/pickers": "^3.3.11",
     "@material-ui/styles": "^4.11.5",
     "@material-ui/system": "^4.12.2",
-    "@reduxjs/toolkit": "1.8.0",
+    "@reduxjs/toolkit": "1.9.7",
     "@types/resize-observer-browser": "0.1.7",
     "antd": "4.24.12",
     "array-move": "3.0.1",
