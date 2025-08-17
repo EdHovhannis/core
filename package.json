@@ -47,7 +47,7 @@
     "redux": "4.0.5",
     "redux-persist": "^5.10.0",
     "redux-thunk": "2.3.0",
-    "styled-components": "6.1.8",
+    "styled-components": "6.1.19",
     "typeface-roboto": "0.0.54",
     "typesafe-actions": "^2.2.0",
     "virtualizedtableforantd4": "^1.1.4"
